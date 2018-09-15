@@ -7,8 +7,8 @@ layout: instructor
 
 |Hora | Sábado 15                                                               | 
 |:----|:------------------------------------------------------------------------|
-|13:00|Bienvenida                                                               |
-|13:15|Charla Magistral: Desarrollo de Productos y Servicios - Luis Peña        |
+|13:00|Bienvenida - Michael Cieza                                               |
+|13:15|Charla Magistral: Despierta tu potencial - Omar Cubas                    |
 |14:00|Descanso                                                                 |
 |14:15|Charla Magistral: Biomecánica del Miembro Superior - Andrés Rodríguez    |
 |15:00|Descanso                                                                 |
@@ -17,7 +17,8 @@ layout: instructor
 |16:15|Trabajo en equipos - Interacción con especialistas (ingenieros y médicos)|
 |17:00|Revisión de avances documentados en web por Revisores                    |
 |19:00|Cena                                                                     |
-|20:00|Trabajo en equipos - Interacción con especialistas (ingenieros y médicos)|
+|20:15|Charla Magistral: Desarrollo de Productos y Servicios - Luis Peña        |
+|21:00|Trabajo en equipos - Interacción con especialistas (ingenieros y médicos)|
 |21:30|Activación                                                               |
 |22:30|Trabajo en Equipos                                                       |
 
