@@ -1,9 +1,14 @@
 ---
 layout: instructor
 ---
-## Hackathon CDSPD - TP1 | Programa 
+## Hackathon CDSPD - TP1 | Programa
+
+![Alt text](/hackathon/hackathon.jpeg)
+
 * Fecha: Sábado 15 y Domingo 16 de Setiembre del 2018
-* Lugar: Sala 01, Complejo de Innovación Académica (CIA) - Pontificia Universidad Católica del Perú (PUCP) 
+* Lugar: Sala 01, Complejo de Innovación Académica (CIA) - Pontificia Universidad Católica del Perú (PUCP)
+
+
 
 |Hora | Sábado 15                                                               | 
 |:----|:------------------------------------------------------------------------|
