@@ -1,10 +1,10 @@
 ---
 layout: instructor
 ---
-### Coordinador General - Taller de Proyecto 01 (TP1)
+### Coordinador General - Fundamentos de Biodiseño
 ![Alt text](/instructors/emir_vela.png){:height="140px" width="140px"}
 
-*Emir Vela, PhD | emir.vela@upch.pe*
+*Emir Vela, MS, PhD | emir.vela@upch.pe*
 ><div style="text-align: justify">El Dr. Vela recibió el grado de Bachiller y Maestría en ciencias en Microingeniería con énfasis en Micro y Nanosistemas de la Ecole Polytechnique Fédérale de Lausanne - EPFL, Suiza, en 2003 y 2005 respectivamente. Obtuvo el grado de Doctor en Mecánica-Robótica con mención muy honorable de la Université Pierre et Marie Curie, Paris, France en 2010. Actualmente es profesor en la Escuela Profesional de Ingeniería dentro del programa de Ingeniería Biomédica de la Universidad Peruana Cayetano Heredia - UPCH, Lima; lidera el laboratorio de Micro&BioRobótica.   Sus campos de interés en investigación comprenden microrobótica, BioMecánica, BioRobótica, aplicaciones de microfluidos, diseño y fabricación de sensores y actuadores, así como control automático.</div>
 
 ### Staff de Asesores - Ingeniería
