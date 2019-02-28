@@ -26,3 +26,8 @@ layout: instructor
 *Miguel Egoavil, MD | miguel.egoavil@upch.pe*
 ><div style="text-align: justify">Médico con estudios de Maestría en Informática Biomédica en la Universidad Peruana Cayetano Heredia. Pertenece al equipo técnico de la Unidad de Telesalud de la Facultad de Medicina de la Universidad Nacional Mayor de San Marcos. Lidera dos proyectos; el primero es un sistema de información basado en un wearable para identificación de emergencias en gestantes; el segundo es para la geolocalización de casos de Arbovirus y Malaria.</div>
 
+*Karin Sernaqué, MD | karinsel3@hotmail.com*
+><div style="text-align: justify">Médico Fisiatra</div>
+
+*Andrés Rodriguez, MD | andy765@gmail.com*
+><div style="text-align: justify">Médico Fisiatra</div>
