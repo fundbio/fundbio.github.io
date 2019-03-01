@@ -34,6 +34,8 @@ layout: instructor
 *Miguel Egoavil, MD | miguel.egoavil@upch.pe*
 ><div style="text-align: justify">Egresado de la Maestría Informática Biomédica en Salud Global por la Universidad Peruana Cayetano Heredia. Es parte del equipo técnico de la Unidad de Telesalud de la Facultad de Medicina de la Universidad Nacional Mayor de San Marcos; profesor de la Facultad de Salud Pública y Administración y de la Facultad de Ciencias y Filosofía de la Universidad Peruana Cayetano Heredia y Director Médico de la empresa Medical Innovation & Technology. Actualmente es investigador principal de un proyecto relaciado al uso de tecnologías aplicadas en el campo de la salud que es Círculos de Investigación para Arbovirus y Malaria, donde se ha desarrollado un sistema de geolocalización de casos confirmados financiado por CONCYTEC.  También es Presidente del Comité Técnico de Informática en Salud 129 del Instituto Nacional de la Calidad y el Ministerio de Salud donde se discute la normativa relacionada a la Historia Clínica Electrónica y Telesalud. Áreas de interés: Salud digital, Telesalud, Enfermedades Infecciosas y salud materna.</div>
 
+![Alt text](/instructors/avatar_woman.jpg){:height="140px" width="140px"}
+
 *Karin Sernaqué, MD | karinsel3@hotmail.com*
 ><div style="text-align: justify">Médico Fisiatra</div>
 
