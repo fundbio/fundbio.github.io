@@ -23,6 +23,8 @@ layout: instructor
 *Juan Huaroto | juan.huaroto@upch.pe*
 ><div style="text-align: justify">Bachiller en ingeniería mecánica, egresado de la Universidad Nacional de Ingeniería. Con experiencia e interés en el desarrollo de mecanismos compliantes, diseño de actuadores, háptica, generación no convencional de energía, modelamiento de sistemas dinámicos, análisis de vibración en materiales no lineales y dinámica de fluidos computacional.</div>
 
+![Alt text](/instructors/pablo_moreno.jpg){:height="140px" width="140px"}
+
 *Pablo Moreno | pablo.moreno@upch.pe*
 ><div style="text-align: justify">20 años de experiencia en el sector de educación superior liderando 37 acreditaciones a la calidad de carreras de ingeniería y tecnología bajo estándares alemanes, norteamericanos y peruanos. Director e investigador del programa de proyectos de ingeniería en el pre- grado- Vivir la Ingeniería de UTEC. Director Gerente de Nexed, empresa distribuidora de didáctica y laboratorios alemanes; y Gerente General de Vamos Expeditions líder en turismo de aprendizaje. Formador en educación Dual - AdA International de la Cámara de comercio e industria de Perú- Alemania. Candidato a PhD por la Universidad de Piura con el tema de innovación en el proceso de enseñanza- aprendizaje en carreras de ingeniería. Dominio de inglés y alemán.</div>
 
