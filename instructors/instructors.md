@@ -13,8 +13,12 @@ layout: instructor
 *Pierre Padilla, MS | pierre.padilla.h@upch.pe*
 ><div style="text-align: justify">Bachiller en Ingeniería Electrónica de la Universidad Peruana de Ciencias Aplicadas (UPC). Maestría en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia (UPCH). Realizó estudios en Administración y Negocios en la University of California Los Angeles (UCLA) y en Biología Sintética por el programa BioAcademy (HTTG - How to Grow Almost Anything). Actualmente, es docente e investigador en la carrera de Ingeniería Biomédica PUCP-UPCH y coordinador del Taller de Biodiseño de la Escuela de Ingeniería de la UPCH. Investigador Asociado del Laboratorio de Moléculas Individuales. Co-Coordinador del Laboratorio de Innovación en Salud del Instituto de Medicina Tropical Alexander von Humboldt. Fundador y Director de Biomakers Lab, iniciativa peruana enfocada en el desarrollo y promoción de proyectos Do-It-Yourself (DIY) de biología, biotecnología y biología sintética. Uno de los autores de "The essential Biohacker’s guide: Begin your journey in the DIY-Bio world", manual para la implementación de laboratorios comunitarios. Esta guía se encuentra disponible en cuatro idiomas: Español, Inglés, Portugués y Francés.</div>
 
+![Alt text](/instructors/etsel_suarez.png){:height="140px" width="140px"}
+
 *Etsel Suarez | etsel.suarez@upch.pe*
 ><div style="text-align: justify">Bachiller de la especialidad de Ing. Mecatrónica de la Universidad Nacional de Ingeniería. Sus áreas de interés están relacionadas al Diseño Mecatrónico orientado a la robótica blanda para el área de la Ingeniería Biomédica y Algoritmos de control, Teniendo conocimientos de Project Management enfocado al PMI lo que hace posible cumplir con mis metas propuestas. Mi campo de interés es la Biomecatrónica, en el cual deseo desarrollar proyectos para el bienestar humano y animal, investigando para lograr un diseño ergonómico del sistema en los seres vivos, especialmente con tecnología de robótica blanda. Propongo, realizo, estudio y desarrollo proyectos de innovación trabajando con estudiantes de ingeniería de la UNI, UPCH. Siendo parte actualmente del Laboratorio de Micro y Biorobótica en los Laboratorios de Investigación y Desarrollo de la Universidad Peruana Cayetano Heredia.</div>
+
+![Alt text](/instructors/juan_huaroto.jpg){:height="140px" width="140px"}
 
 *Juan Huaroto | juan.huaroto@upch.pe*
 ><div style="text-align: justify">Bachiller en ingeniería mecánica, egresado de la Universidad Nacional de Ingeniería. Con experiencia e interés en el desarrollo de mecanismos compliantes, diseño de actuadores, háptica, generación no convencional de energía, modelamiento de sistemas dinámicos, análisis de vibración en materiales no lineales y dinámica de fluidos computacional.</div>
@@ -30,6 +34,8 @@ layout: instructor
 
 *Karin Sernaqué, MD | karinsel3@hotmail.com*
 ><div style="text-align: justify">Médico Fisiatra</div>
+
+![Alt text](/instructors/andres_rodriguez.jpg){:height="140px" width="140px"}
 
 *Andrés Rodriguez, MD | andy765@gmail.com*
 ><div style="text-align: justify">Médico Fisiatra</div>
