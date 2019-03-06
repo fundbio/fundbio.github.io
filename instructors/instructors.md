@@ -21,7 +21,7 @@ layout: instructor
 ![Alt text](/instructors/juan_huaroto.jpg){:height="140px" width="140px"}
 
 *Juan Huaroto | juan.huaroto@upch.pe*
-><div style="text-align: justify">Bachiller en ingeniería mecánica, egresado de la Universidad Nacional de Ingeniería. Con experiencia e interés en el desarrollo de mecanismos compliantes, diseño de actuadores, háptica, generación no convencional de energía, modelamiento de sistemas dinámicos, análisis de vibración en materiales no lineales y dinámica de fluidos computacional.</div>
+><div style="text-align: justify">BBachiller en ingeniería mecánica (UNI). Con experiencia e interés en el desarrollo de mecanismos flexibles, diseño de manipuladores robóticos, generación no convencional de energía, modelamiento de sistemas dinámicos, análisis de vibración en materiales no lineales y dinámica de fluidos computacional. El año 2017 recibí la distinción como el segundo mejor diseño de satélites educativos, en el concurso internacional de módulos CanSat en el C'SPACE 2017 (Tarbes-Francia) organizado por el Centre National d'Études Spatiales (CNES) y Planète Sciences. Hoy en día, me desempeño desarrollando sistemas bio-mecatrónicos en el Laboratorio de Micro & BioRobótica (MaB Lab) de la UPCH y analizando materiales compuestos para mini-cohetes y embarcaciones experimentales en el CTIC-UNI.</div>
 
 ![Alt text](/instructors/pablo_moreno.jpg){:height="160px" width="140px"}
 
@@ -34,10 +34,10 @@ layout: instructor
 *Miguel Egoavil, MD | miguel.egoavil@upch.pe*
 ><div style="text-align: justify">Egresado de la Maestría Informática Biomédica en Salud Global por la Universidad Peruana Cayetano Heredia. Es parte del equipo técnico de la Unidad de Telesalud de la Facultad de Medicina de la Universidad Nacional Mayor de San Marcos; profesor de la Facultad de Salud Pública y Administración y de la Facultad de Ciencias y Filosofía de la Universidad Peruana Cayetano Heredia y Director Médico de la empresa Medical Innovation & Technology. Actualmente es investigador principal de un proyecto relaciado al uso de tecnologías aplicadas en el campo de la salud que es Círculos de Investigación para Arbovirus y Malaria, donde se ha desarrollado un sistema de geolocalización de casos confirmados financiado por CONCYTEC.  También es Presidente del Comité Técnico de Informática en Salud 129 del Instituto Nacional de la Calidad y el Ministerio de Salud donde se discute la normativa relacionada a la Historia Clínica Electrónica y Telesalud. Áreas de interés: Salud digital, Telesalud, Enfermedades Infecciosas y salud materna.</div>
 
-![Alt text](/instructors/avatar_woman.jpg){:height="140px" width="140px"}
+![Alt text](/instructors/karin_sernaque.jpg){:height="140px" width="140px"}
 
 *Karin Sernaqué, MD | karinsel3@hotmail.com*
-><div style="text-align: justify">Médico Fisiatra</div>
+><div style="text-align: justify">Médico cirujano egresada de la Universidad José Faustino Sánchez Carrión, médico residente de 3º año de la especialidad de Medicina Física y Rehabilitación por la Universidad Nacional Mayor de San Marcos; realizó Diplomado de Control y Auditoria de los Servicios de Salud, de la Universidad Nacional Mayor de San Marcos; con interés en desarrollar proyectos de avance en Medicina física y rehabilitación en patologías neuro-músculo-esqueléticas.</div>
 
 ![Alt text](/instructors/andres_rodriguez.jpg){:height="140px" width="140px"}
 
