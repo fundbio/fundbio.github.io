@@ -20,7 +20,7 @@ layout: instructor
 
 ### Staff de Asesores - Medicina
 
-![Alt text](/instructors/pedro_segura.png){:height="200px" width="140px"}
+![Alt text](/instructors/pedro_segura.png){:height="180px" width="140px"}
 
 *Pedro Segura, MD, MS | pedro.segura.s@upch.pe*
 ><div style="text-align: justify">Médico Cardiólogo en la Universidad Peruana Cayetano Heredia (UPCH). Maestría en Economía de la Salud y del medicamento en la UPF – Barcelona. Maestrando en Informática Biomédica en Salud global UPCH. Médico asistente del Departamento de Cardiología del Hospital Nacional Edgardo Rebagliati Martins-EsSalud. Miembro del Comité de Ética e Investigación del Hospital Nacional Edgardo Rebagliati Martins-EsSalud. Miembro del comité asesor permanente de Innovación e Investigación del Colegio Médico del Perú. Co-Creador de SMATCEL: Sistema de Monitoreo Ambulatorio para la detección oportuna de arritmias y/o eventos coronarios en tiempo real con Tecnología celular.</div>
