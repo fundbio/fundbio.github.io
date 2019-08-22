@@ -10,13 +10,13 @@ layout: instructor
 ### Staff de Asesores - Ingeniería
 
 *Jean Pierre Tincopa, MS(c) | jean.tincopa@upch.pe*
-
+><div style="text-align: justify">Egresado de la Maestría Informática Biomédica en Salud Global por la Universidad Peruana Cayetano Heredia (UPCH).Ingenierio Electrónico de la Universidad Nacional del Callao (UNAC).</div>
 
 *Juan Manuel Zuñiga, MS(c) | juan.zuniga@upch.pe*
-
+><div style="text-align: justify">Maestrando en Física en la Universidad Nacional de Ingeniería (UNI). Bachiller en Ingeniería Mecánica de la UNI</div>
 
 *Guillermo Cajo, BS | guillermo.cajo@upch.pe*
-
+><div style="text-align: justify">Bachiller en Ingeniería Mecánica de la Universidad Nacional de Ingeniería (UNI).</div>
 
 ### Staff de Asesores - Medicina
 
@@ -34,3 +34,9 @@ layout: instructor
 
 *Andrés Rodriguez, MD, MS | andy765@gmail.com*
 ><div style="text-align: justify">Médico Fisiatra</div>
+
+*José Proaño, MD, MBA | jose.proano@upch.pe*
+><div style="text-align: justify">Médico Reumatologo</div>
+
+*Segundo Cruz, MD, MS | scruzb@gmail.com*
+><div style="text-align: justify">Médico Neonatologo</div>
