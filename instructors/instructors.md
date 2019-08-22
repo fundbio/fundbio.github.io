@@ -8,7 +8,6 @@ layout: instructor
 ><div style="text-align: justify"> Maestría en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia (UPCH). Bachiller en Ingeniería Electrónica de la Universidad Peruana de Ciencias Aplicadas (UPC). Realizó entrenamientos especializados en Administración y Negocios, Biología Sintética y Bioinformática. Actualmente, es docente e investigador en la carrera de Ingeniería Biomédica PUCP-UPCH y coordinador del Laboratorio de Ingeniería Biomédica de los Laboratorio de Investigación y Desarrollo (LID). Investigador Asociado del Laboratorio de Moléculas Individuales. Co-Coordinador del Laboratorio de Innovación en Salud del Instituto de Medicina Tropical “Alexander von Humboldt”. Lidera proyectos en el campo de Biomecánica, Rehabilitación e Instrumentación Biomédica. </div>
 
 ### Staff de Asesores - Ingeniería
-![Alt text](/instructors/pierre_padilla.jpg){:height="140px" width="140px"}
 
 *Jean Pierre Tincopa, MS(c) | jean.tincopa@upch.pe*
 
@@ -29,5 +28,5 @@ layout: instructor
 
 ![Alt text](/instructors/andres_rodriguez.jpg){:height="140px" width="140px"}
 
-*Andrés Rodriguez, MD | andy765@gmail.com*
+*Andrés Rodriguez, MD, MS | andy765@gmail.com*
 ><div style="text-align: justify">Médico Fisiatra</div>
