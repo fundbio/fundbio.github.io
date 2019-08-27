@@ -42,11 +42,13 @@ fabricación y puesta en marcha de prototipos de maquinas tanto en la empresa NE
 *Miguel Egoavil, MD, MS(c) | miguel.egoavil@upch.pe*
 ><div style="text-align: justify">Egresado de la Maestría Informática Biomédica en Salud Global por la Universidad Peruana Cayetano Heredia. Es parte del equipo técnico de la Unidad de Telesalud de la Facultad de Medicina de la Universidad Nacional Mayor de San Marcos; profesor de la Facultad de Salud Pública y Administración y de la Facultad de Ciencias y Filosofía de la Universidad Peruana Cayetano Heredia y Consultor Médico en proyectos de investigación de la empresa Medical Innovation & Technology. Actualmente es investigador principal de un proyecto relacionado al uso de tecnologías aplicadas en el campo de la salud que es Círculos de Investigación para Arbovirus y Malaria, donde se ha desarrollado un sistema de geolocalización de casos confirmados financiado por CONCYTEC. También es Presidente del Comité Técnico de Informática en Salud 129 del Instituto Nacional de la Calidad y el Ministerio de Salud donde se discute la normativa relacionada a la Historia Clínica Electrónica y Telesalud. Áreas de interés: Salud digital, Telesalud, Enfermedades Infecciosas y salud materna.</div>
 
-*Andrés Rodriguez, MD, MS | andy765@gmail.com*
-><div style="text-align: justify">Médico Fisiatra</div>
+![Alt text](/instructors/miguel_egoavil.jpg){:height="200px" width="140px"}
 
 *José Proaño, MD, MBA | jose.proano@upch.pe*
-><div style="text-align: justify">Médico Reumatologo</div>
+><div style="text-align: justify">Docente universitario de la Universidad Cayetano Heredia del Perú – Pontificia Universidad Católica del Perú, actualmente Cordinador Catedra de Anatomía-Fisiología (Facultad de Ingeniería Biomédica). Médico Inmuno-Reumatólogo, asistente del Servicio Inmuno-reumatología del Hospital Nacional Cayetano Heredia y Clínica Angloamericana, con experiencia en atenciones médicas de la especialidad y apoyo en formación académica del residentado médico de la especialidad y responsable del área de investigación clínica reumatológica en HCH. Asimismo 8 años de experiencia en la participación de estudios de investigación clínica farmacéutica como Investigador principal y Sub investigador durante los últimos años. Además cuento con conocimientos académicos en administración gerencial de empresas (MBA gerencia internacional) en CENTRUM - EADA Barcelona.</div>
+
+*Andrés Rodriguez, MD, MS | andy765@gmail.com*
+><div style="text-align: justify">Médico Fisiatra</div>
 
 *Segundo Cruz, MD, MS | scruzb@gmail.com*
 ><div style="text-align: justify">Médico Neonatologo</div>
