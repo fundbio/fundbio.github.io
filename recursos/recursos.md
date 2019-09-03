@@ -17,11 +17,24 @@ Recursos
 
 [Write the Docs](https://www.writethedocs.org/)
 
+## Programación
+[Introducción a Arduino](https://www.academia.edu/36508349/Introducci%C3%B3n_a_Arduino)
+
+[Intro to Arduino](https://cdn.sparkfun.com/assets/3/9/d/9/e/Intro_to_Arduino_-_v30_1.pdf)
+
+[Introduction to Arduino](https://www.introtoarduino.com/downloads/IntroArduinoBook.pdf)
+
+[Learn Python](https://www.codecademy.com/learn/learn-python)
+
+## Circuitos
+[Introducción a la electrónica nivel básico](https://micros.grup6.com/introduccion-a-la-electronica/)
+
+[Introducción a la electrónica](https://usershop.redusers.com/media/blfa_files/lpcu142/capitulogratis.pdf)
+
+[Microcontroladores de Atmel](http://www.exa.unicen.edu.ar/catedras/tmicrocon/Material/3_Overview_Microcontroladores_ATMEL.pdf)
+
+[Organización Interna de los Microcontroladores](http://www.utm.mx/~fsantiag/Micros/2_Organizacion_AVRs.pdf)
+
 ## Prototipado
 Próximamente
 
-## Programación
-Próximamente
-
-## Circuitos
-Próximamente
