@@ -44,7 +44,7 @@ Recursos
 [Blender Measurement tools add-on](https://www.youtube.com/watch?v=R0jCdCoaRvs)
 
 ### Diseño de Tarjetas Electrónicas
-[Tutotial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
+[Tutorial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
 
 [Comenzando en KiCAD](http://docs.kicad-pcb.org/5.0.2/es/getting_started_in_kicad/getting_started_in_kicad.pdf)
 
