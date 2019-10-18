@@ -43,6 +43,11 @@ Recursos
 
 [Blender Measurement tools add-on](https://www.youtube.com/watch?v=R0jCdCoaRvs)
 
+### Impresión 3D
+[Tutorial de Repetier](https://www.repetier.com/tutorials/)
+
+[3D Printing Handbook](https://drive.google.com/file/d/1gVyIdeOf8eX2vrn3FnWcGnceJdVb2zmE/view?usp=sharing)
+
 ### Diseño de Tarjetas Electrónicas
 [Tutorial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
 
