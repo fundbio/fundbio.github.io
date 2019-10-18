@@ -26,7 +26,7 @@ Recursos
 
 [Learn Python](https://www.codecademy.com/learn/learn-python)
 
-## Circuitos
+## Electrónica Básica
 [Introducción a la electrónica nivel básico](https://micros.grup6.com/introduccion-a-la-electronica/)
 
 [Introducción a la electrónica](https://usershop.redusers.com/media/blfa_files/lpcu142/capitulogratis.pdf)
@@ -36,5 +36,17 @@ Recursos
 [Organización Interna de los Microcontroladores](http://www.utm.mx/~fsantiag/Micros/2_Organizacion_AVRs.pdf)
 
 ## Prototipado
-Próximamente
+### Modelado 3D
+[Tutorial de Blender](http://www.peremanelv.com/Pagina_Web_de_Pere_Manel/Tutoriales_files/Tutorial%20de%20Blender%20I.pdf)
+
+[Prepara tu modelo para impresión 3D con Blender](https://www.sculpteo.com/en/tutorial/prepare-your-model-3d-printing-blender/)
+
+[Blender Measurement tools add-on](https://www.youtube.com/watch?v=R0jCdCoaRvs)
+
+### Diseño de Tarjetas Electrónicas
+[Tutotial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
+
+[Comenzando en KiCAD](http://docs.kicad-pcb.org/5.0.2/es/getting_started_in_kicad/getting_started_in_kicad.pdf)
+
+[Diseña una tarjeta en 5 minutos](https://www.youtube.com/watch?v=l9b_6WLemmg)
 
