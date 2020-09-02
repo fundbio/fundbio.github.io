@@ -29,12 +29,12 @@ layout: instructor
 *Pedro Segura, MD, MS | pedro.segura.s@upch.pe*
 ><div style="text-align: justify">Médico Cardiólogo en la Universidad Peruana Cayetano Heredia (UPCH). Maestría en Economía de la Salud y del medicamento en la UPF – Barcelona. Maestrando en Informática Biomédica en Salud global UPCH. Médico asistente del Departamento de Cardiología del Hospital Nacional Edgardo Rebagliati Martins-EsSalud. Miembro del Comité de Ética e Investigación del Hospital Nacional Edgardo Rebagliati Martins-EsSalud. Miembro del comité asesor permanente de Innovación e Investigación del Colegio Médico del Perú. Co-Creador de SMATCEL: Sistema de Monitoreo Ambulatorio para la detección oportuna de arritmias y/o eventos coronarios en tiempo real con Tecnología celular.</div>
 
-![Alt text](/instructors/segundo_cruz.png){:height="180px" width="140px"}
+![Alt text](/instructors/segundo_cruz.jpg){:height="180px" width="140px"}
 
 *Segundo Cruz, MD | segundo.cruz@upch.pe*
 ><div style="text-align: justify">Pediatra e investigador del Instituto Nacional de Salud del Niño San Borja, Magister en Pediatría, Maestrando en Educación con mención en Docencia Virtual, Doctorando en Medicina. Integrante del Consejo Nacional de Residentado Médico. Equipo Técnico de la Asociación Peruana de Facultades de Medicina. Past Docente de la Facultad de Medicina de la Universidad Nacional de Trujillo, Escuela Nacional de Sanidad de España. Ex funcionario del Ministerio de Salud y EsSalud.</div>
 
-![Alt text](/instructors/cender_quispe.png){:height="180px" width="140px"}
+![Alt text](/instructors/cender_quispe.jpg){:height="180px" width="140px"}
 
 *Cender Quispe, MD | cender.quispe@upch.pe*
 ><div style="text-align: justify">Médico egresado de la Universidad Nacional de San Agustín, con estudios de maestría en Informática biomédica en salud global en la Universidad Peruana Cayetano Heredia. Calificado como Investigador CONCYTEC. Es autor de diversas publicaciones en revistas indizadas nacionales e internacionales. Realiza investigación en salud, especialmente en telemedicina, salud digital, e informática en salud basada en evidencia. Actualmente se desempeña como asistente de investigación del proyecto Resp-IoT, financiado por la Royal Academy of Engineering. Es miembro de la Asociación Iberoamericana de Telesalud y Telemedicina, fue miembro activo de la Sociedad Científica Médico Estudiantil Peruana.</div>
@@ -49,7 +49,7 @@ layout: instructor
 *Guillermo Cajo, MS(c) | guillermo.cajo@upch.pe*
 ><div style="text-align: justify">Maestrando en Automática e Instrumentación en la Universidad Nacional de Ingeniería (UNI). Bachiller en Ciencias con mención en Ingeniería Mecatrónica de la Universidad Nacional de Ingeniería (UNI). Egresado del Diplomado en Project Management en el Instituto para la Calidad de la Pontificia Universidad Católica del Perú (PUCP). Con experiencia en el desarrollo de proyectos de automatización y control. Actualmente, es Asistente de Investigación en la Facultad de Ciencias y Filosofía del Dpto. Académico de Ingeniería de la Universidad Peruana Cayetano Heredia (UPCH).</div>
 
-![Alt text](/instructors/paulo_vela.jpg){:height="140px" width="120px"}
+![Alt text](/instructors/paulo_vela.jpeg){:height="140px" width="120px"}
 
 *Paulo Vela, MS(c) | paulo.vela@upch.pe*
 ><div style="text-align: justify">Bachiller en Ingeniería Mecatrónica e investigador del programa de Maestría en Informática Biomédica en Salud Global de la Universidad Peruana Cayetano Heredia. Miembro de la Real Academia de Ingeniería a través de la comunidad internacional “Leaders in Innovation Fellowships”. CEO de SaferLab, startup cuyo objetivo es mejorar la atención médica de los recién nacidos utilizando tecnología IoT. Sus trabajos en el Laboratorio de Ingeniería Biomédica se basan en Robótica Blanda, Aprendizaje Automático e Informática de la Salud.</div>
@@ -57,9 +57,7 @@ layout: instructor
 ![Alt text](/instructors/rossana_rivas.jpg){:height="140px" width="120px"}
 
 *Rossana Rivas, MS, PhD(c) | rossana.rivas@upch.pe*
-><div style="text-align: justify">PhD Candidate, Mines ParisTech, Ecole des Mines de París, Francia; MSc, Gestión de Org.Sociales y de Salud, Univ. Jean Moulin-Lyon III, Francia. Senior Advisor del Centro Colaborador de World Health Organization. Clinical Engineering Health en la carrera de Ingeniería Biomédica en UPCH y profesor-investigador en la Facultad de Salud Pública en UPCH; docente y consultora en Ingeniería Clínica, Gestión & Planeamiento de Tecnología de Salud e Ing. Biomédica. Reviewer y Scientific Member de: Congreso Latinoamericano de Ingeniería Biomédica-CLAIB; International Clinical Engineering & Health Technology Management Congress-ICEHTM; International Union for Physical & Engineering Science of Medicine-
-IUPESM; Annual International Conference of the IEEE Engineering in Medicine & Biology Society-EMBS. Collaborating Member de: Clinical Division-International Federation of Medical & Biological Engineering-IFMBE; de Health Technology Task Group de International Union for Physical & Engineering Science of Medicine-IUPESM y de Centre for Excellence-CED/IFMBE. Fundadora y Directora Ejecutiva de CENGETS; Autora de los libros: “Ingeniería Clínica y Gestión de Tecnología en Salud”, Grambs, 2006 y
-“Healthcare Technology Management Systems”, Elsevier, 2017.</div>
+><div style="text-align: justify">PhD Candidate, Mines ParisTech, Ecole des Mines de París, Francia; MSc, Gestión de Org.Sociales y de Salud, Univ. Jean Moulin-Lyon III, Francia. Senior Advisor del Centro Colaborador de World Health Organization. Clinical Engineering Health en la carrera de Ingeniería Biomédica en UPCH y profesor-investigador en la Facultad de Salud Pública en UPCH; docente y consultora en Ingeniería Clínica, Gestión & Planeamiento de Tecnología de Salud e Ing. Biomédica. Reviewer y Scientific Member de: Congreso Latinoamericano de Ingeniería Biomédica-CLAIB; International Clinical Engineering & Health Technology Management Congress-ICEHTM; International Union for Physical & Engineering Science of Medicine-IUPESM; Annual International Conference of the IEEE Engineering in Medicine & Biology Society-EMBS. Collaborating Member de: Clinical Division-International Federation of Medical & Biological Engineering-IFMBE; de Health Technology Task Group de International Union for Physical & Engineering Science of Medicine-IUPESM y de Centre for Excellence-CED/IFMBE. Fundadora y Directora Ejecutiva de CENGETS; Autora de los libros: “Ingeniería Clínica y Gestión de Tecnología en Salud”, Grambs, 2006 y “Healthcare Technology Management Systems”, Elsevier, 2017.</div>
 
 ![Alt text](/instructors/leopoldo_yabar.jpg){:height="140px" width="120px"}
 
