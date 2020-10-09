@@ -37,6 +37,12 @@ Recursos
 
 ## Prototipado
 ### Modelado 3D
+[Introducción a Blender - Parte I](https://youtu.be/etamoYQ1hSs)
+
+[Introducción a Blender - Parte II](https://youtu.be/U5QVp5lLP8c)
+
+[Introducción a Blender - Parte III](https://youtu.be/lOv5tNWKi9U)
+
 [Tutorial de Blender](http://www.peremanelv.com/Pagina_Web_de_Pere_Manel/Tutoriales_files/Tutorial%20de%20Blender%20I.pdf)
 
 [Prepara tu modelo para impresión 3D con Blender](https://www.sculpteo.com/en/tutorial/prepare-your-model-3d-printing-blender/)
