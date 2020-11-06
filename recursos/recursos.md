@@ -35,6 +35,20 @@ Recursos
 
 [Organización Interna de los Microcontroladores](http://www.utm.mx/~fsantiag/Micros/2_Organizacion_AVRs.pdf)
 
+### Simulación de Circuitos
+[Turotial Proteus desde cero](https://www.youtube.com/watch?v=zb5OJxtPjvw)
+
+[Simular Arduino en Proteus](https://www.youtube.com/watch?v=kWjPiFNrXMc)
+
+
+### Diseño de Tarjetas Electrónicas
+[Tutorial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
+
+[Comenzando en KiCAD](http://docs.kicad-pcb.org/5.0.2/es/getting_started_in_kicad/getting_started_in_kicad.pdf)
+
+[Diseña una tarjeta en 5 minutos](https://www.youtube.com/watch?v=l9b_6WLemmg)
+
+
 ## Prototipado
 ### Modelado 3D
 [Introducción a Blender - Parte I](https://youtu.be/etamoYQ1hSs)
@@ -53,11 +67,3 @@ Recursos
 [Tutorial de Repetier](https://www.repetier.com/tutorials/)
 
 [3D Printing Handbook](https://drive.google.com/file/d/1gVyIdeOf8eX2vrn3FnWcGnceJdVb2zmE/view?usp=sharing)
-
-### Diseño de Tarjetas Electrónicas
-[Tutorial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
-
-[Comenzando en KiCAD](http://docs.kicad-pcb.org/5.0.2/es/getting_started_in_kicad/getting_started_in_kicad.pdf)
-
-[Diseña una tarjeta en 5 minutos](https://www.youtube.com/watch?v=l9b_6WLemmg)
-
