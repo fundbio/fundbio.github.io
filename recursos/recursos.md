@@ -18,13 +18,20 @@ Recursos
 [Write the Docs](https://www.writethedocs.org/)
 
 ## Programación
+
+### Arduino
+
 [Introducción a Arduino](https://www.academia.edu/36508349/Introducci%C3%B3n_a_Arduino)
 
 [Intro to Arduino](https://cdn.sparkfun.com/assets/3/9/d/9/e/Intro_to_Arduino_-_v30_1.pdf)
 
 [Introduction to Arduino](https://www.introtoarduino.com/downloads/IntroArduinoBook.pdf)
 
+### Python
+
 [Learn Python](https://www.codecademy.com/learn/learn-python)
+
+[Python con Firebase](https://www.youtube.com/watch?v=f64e18ohYlY)
 
 ## Electrónica Básica
 [Introducción a la electrónica nivel básico](https://micros.grup6.com/introduccion-a-la-electronica/)
