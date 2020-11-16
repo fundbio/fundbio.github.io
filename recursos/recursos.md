@@ -17,6 +17,8 @@ Recursos
 
 [Write the Docs](https://www.writethedocs.org/)
 
+
+
 ## Programación
 
 ### Arduino
@@ -43,6 +45,16 @@ Recursos
 
 [Python con Firebase](https://www.youtube.com/watch?v=f64e18ohYlY)
 
+[Interfaz Grafica con Python y QtDesigner](https://www.youtube.com/watch?v=H6LGl9B3rQA)
+
+### AppInventor
+
+[AppInventor con Firebase (Parte 1)](https://www.youtube.com/watch?v=L6hbMv45gFY)
+
+[AppInventor con Firebase (Parte 2)](https://www.youtube.com/watch?v=PETOqeB_ZMI)
+
+
+
 ## Electrónica Básica
 [Introducción a la electrónica nivel básico](https://micros.grup6.com/introduccion-a-la-electronica/)
 
@@ -57,11 +69,14 @@ Recursos
 
 [Simular Arduino en Proteus](https://www.youtube.com/watch?v=kWjPiFNrXMc)
 
+[Labels de conexion en Proteus](https://www.youtube.com/watch?v=gTOfM9jvCNw)
 
 ### Diseño de Tarjetas Electrónicas
 [Tutorial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
 
 [Comenzando en KiCAD](http://docs.kicad-pcb.org/5.0.2/es/getting_started_in_kicad/getting_started_in_kicad.pdf)
+
+[Diseño esquematico con KiCAD](https://www.youtube.com/watch?v=jTMjb-1SVHo)
 
 [Diseña una tarjeta en 5 minutos](https://www.youtube.com/watch?v=l9b_6WLemmg)
 
