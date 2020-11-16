@@ -31,6 +31,16 @@ Recursos
 
 [Learn Python](https://www.codecademy.com/learn/learn-python)
 
+[Taller de programación en Python - Clase 01](https://sites.google.com/upch.pe/python/inicio/clase01?authuser=0)
+
+[Taller de programación en Python - Clase 02 - Parte 1](hhttps://sites.google.com/upch.pe/python/inicio/clase02?authuser=0)
+
+[Taller de programación en Python - Clase 02 - Parte 2](https://sites.google.com/upch.pe/python/inicio/clase03?authuser=0)
+
+[Taller de programación en Python - Clase 03 - Parte 1](https://sites.google.com/upch.pe/python/inicio/clase04?authuser=0)
+
+[Python - Instalacion de Pip](https://www.youtube.com/watch?v=8q5_i0Tx-PQ)
+
 [Python con Firebase](https://www.youtube.com/watch?v=f64e18ohYlY)
 
 ## Electrónica Básica
