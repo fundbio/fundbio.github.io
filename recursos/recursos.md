@@ -33,7 +33,7 @@ Recursos
 
 [Taller de programación en Python - Clase 01](https://sites.google.com/upch.pe/python/inicio/clase01?authuser=0)
 
-[Taller de programación en Python - Clase 02 (Parte 1)](hhttps://sites.google.com/upch.pe/python/inicio/clase02?authuser=0)
+[Taller de programación en Python - Clase 02 (Parte 1)](https://sites.google.com/upch.pe/python/inicio/clase02?authuser=0)
 
 [Taller de programación en Python - Clase 02 (Parte 2)](https://sites.google.com/upch.pe/python/inicio/clase03?authuser=0)
 
