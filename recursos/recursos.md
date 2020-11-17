@@ -56,6 +56,7 @@ Recursos
 
 
 ## Electrónica Básica
+
 [Introducción a la electrónica nivel básico](https://micros.grup6.com/introduccion-a-la-electronica/)
 
 [Introducción a la electrónica](https://usershop.redusers.com/media/blfa_files/lpcu142/capitulogratis.pdf)
@@ -63,6 +64,8 @@ Recursos
 [Microcontroladores de Atmel](http://www.exa.unicen.edu.ar/catedras/tmicrocon/Material/3_Overview_Microcontroladores_ATMEL.pdf)
 
 [Organización Interna de los Microcontroladores](http://www.utm.mx/~fsantiag/Micros/2_Organizacion_AVRs.pdf)
+
+
 
 ### Simulación de Circuitos
 [Turotial Proteus desde cero](https://www.youtube.com/watch?v=zb5OJxtPjvw)
