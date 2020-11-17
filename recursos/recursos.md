@@ -65,8 +65,6 @@ Recursos
 
 [Organización Interna de los Microcontroladores](http://www.utm.mx/~fsantiag/Micros/2_Organizacion_AVRs.pdf)
 
-
-
 ### Simulación de Circuitos
 [Turotial Proteus desde cero](https://www.youtube.com/watch?v=zb5OJxtPjvw)
 
