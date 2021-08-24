@@ -15,15 +15,18 @@ Entre sus principales interés como investigador están el llevar la tecnología
 *Juan Manuel Zuñiga, MS(c), ING | juan.zuniga@upch.pe*
 ><div style="text-align: justify">Maestrando en Física en la Universidad Nacional de Ingeniería, con tesis acerca del estudio de la resonancia Fano en sensores de alto indice de refracción para aplicaciones medicas. Ingeniero Mecánico de la Universidad Nacional de Ingeniería con tesis en el desarrollo y caracterización mecánica de una bioresina fotosensible. Realizo proyectos en el área de diseño mecánico, fabricación y puesta en marcha de prototipos de maquinas tanto en la empresa NEXSOL SRL como en la Universidad de Ingeniería y Tecnología. Actualmente es investigador en la carrera de Ingeniería Biomédica PUCP-UPCH y coordinador del Taller de Biodiseño.</div>
 
+
 ![Alt text](/instructors/paulo_vela.jpeg){:height="130px" width="120px"}
 
 *Paulo Vela, MS(c) | paulo.vela@upch.pe*
 ><div style="text-align: justify">Bachiller en Ingeniería Mecatrónica e investigador del programa de Maestría en Informática Biomédica en Salud Global de la Universidad Peruana Cayetano Heredia. Miembro de la Real Academia de Ingeniería a través de la comunidad internacional “Leaders in Innovation Fellowships”. CEO de SaferLab, startup cuyo objetivo es mejorar la atención médica de los recién nacidos utilizando tecnología IoT. Sus trabajos en el Laboratorio de Ingeniería Biomédica se basan en Robótica Blanda, Aprendizaje Automático e Informática de la Salud.</div>
 
+
+
 ![Alt text](/instructors/renzo_chan.jpeg){:height="130px" width="120px"}
 
 *Renzo Chan, ING | renzo.chan@upch.pe*
-><div style="text-align: justify"> ..........</div>
+><div style="text-align: justify"> Maestrando en Automática e Instrumentación en la Universidad Nacional de Ingeniería (UNI). Ingeniero Electrónico con especialidad en Control y Automatización por la Universidad Nacional del Callao (UNAC). Especialista en Protección Radiológica y Seguridad de las Fuentes de Radiación por la Universidad de Buenos Aires (UBA). Capacitado en Formulación de Proyectos de Innovación Tecnológica por el Centro de Tecnologías Avanzadas de manufactura (CETAM) de la Pontificia Universidad Católica del Perú. Actualmente se desempeña como Ingeniero Electrónico de Desarrollo y Oficial de Protección Radiológica en Análisis por Activación Neutrónica en la Dirección de Investigación y Desarrollo del Instituto Peruano de Energía Nuclear (IPEN).</div>
 
 
 
@@ -33,10 +36,13 @@ Entre sus principales interés como investigador están el llevar la tecnología
 ><div style="text-align: justify">Pediatra e investigador del Instituto Nacional de Salud del Niño San Borja, Magister en Pediatría, Maestrando en Educación con mención en Docencia Virtual, Doctorando en Medicina. Integrante del Consejo Nacional de Residentado Médico. Equipo Técnico de la Asociación Peruana de Facultades de Medicina. Past Docente de la Facultad de Medicina de la Universidad Nacional de Trujillo, Escuela Nacional de Sanidad de España. Ex funcionario del Ministerio de Salud y EsSalud.</div>
 
 
+
 ![Alt text](/instructors/cender_quispe.jpg){:height="180px" width="140px"}
 
 *Cender Quispe, MD | cender.quispe@upch.pe*
 ><div style="text-align: justify">Médico egresado de la Universidad Nacional de San Agustín, con estudios de maestría en Informática biomédica en salud global en la Universidad Peruana Cayetano Heredia. Calificado como Investigador CONCYTEC. Es autor de diversas publicaciones en revistas indizadas nacionales e internacionales. Realiza investigación en salud, especialmente en telemedicina, salud digital, e informática en salud basada en evidencia. Actualmente se desempeña como asistente de investigación del proyecto Resp-IoT, financiado por la Royal Academy of Engineering. Es miembro de la Asociación Iberoamericana de Telesalud y Telemedicina, fue miembro activo de la Sociedad Científica Médico Estudiantil Peruana.</div>
+
+
 
 ![Alt text](/instructors/andres_rodriguez.jpeg){:height="180px" width="140px"}
 
