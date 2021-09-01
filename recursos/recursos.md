@@ -17,6 +17,8 @@ Recursos
 
 [Write the Docs](https://www.writethedocs.org/)
 
+## Gestor de Referencias
+[Como citar usando Mendeley](https://www.youtube.com/watch?v=yuIbVxQg3x4)
 
 
 ## Programación
