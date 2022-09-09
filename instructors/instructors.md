@@ -15,7 +15,7 @@ layout: instructor
 ><div style="text-align: justify">Maestrando en Física en la Universidad Nacional de Ingeniería, con tesis acerca del estudio de la resonancia Fano en sensores de alto indice de refracción para aplicaciones medicas. Ingeniero Mecánico de la Universidad Nacional de Ingeniería con tesis en el desarrollo y caracterización mecánica de una bioresina fotosensible. Realizo proyectos en el área de diseño mecánico, fabricación y puesta en marcha de prototipos de maquinas tanto en la empresa NEXSOL SRL como en la Universidad de Ingeniería y Tecnología. Actualmente es investigador en la carrera de Ingeniería Biomédica PUCP-UPCH y coordinador del Taller de Biodiseño.</div>
 
 
-![Alt text](/instructors/Lewis de la Cruz.jpeg){:height="130px" width="120px"}
+![Alt text](/instructors/lewis_de_la_cruz.jpeg){:height="130px" width="120px"}
 
 *Lewis de la Cruz, MS | umbert.de.la.cruz@upch.pe*
 ><div style="text-align: justify">Magíster en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia. Apasionado por aprender y enseñar. Participó en concursos de robótica a nivel nacional e internacional. Es un entusiasta por la investigación y el desarrollo tecnológico. Fue director y fundador del Centro de Capacitación en tecnologías de la industria 4.0 de Data Science Research Perú. Fue coordinador de laboratorios especializados en la UTP Piura. Mentor en programas de Ingeniería Biomédica por la IEEE EMBS UTP Y UNMSM. Y tiene interés en la inteligencia artificial aplicada en la salud, con enfoque en el procesamiento de lenguaje natural como herramienta para la salud pública.</div>
