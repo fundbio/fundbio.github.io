@@ -2,7 +2,7 @@
 layout: instructor
 ---
 ### Coordinador General - Fundamentos de Biodiseño
-![Alt text](/instructors/paulo_vela.png){:height="140px" width="130px"}
+![Alt text](/instructors/paulo_vela.jpeg){:height="140px" width="130px"}
 
 *Paulo Vela, MS, ING | paulo.vela@upch.pe*
 ><div style="text-align: justify">Ingeniero mecatrónico y Magíster en Informática Biomédica en Salud Global de la Universidad Peruana Cayetano Heredia. Cuenta además con estudios en Gestión de la Tecnología y la Innovación y Diplomacia Científica. Miembro de la Royal Academy of Engineering de Reino Unido a través del programa "Leaders in Innovation Fellowships", y participante activo del programa "Engineering for Change" de EEUU, comunidad internacional enfocada en el diseño de soluciones ingenieriles con impacto social en las áreas de salud, energía y medio ambiente. Sus proyectos de investigación se enfocan en temas como Internet de las Cosas, Big Data y Aprendizaje Automático. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH.</div>
