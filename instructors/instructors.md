@@ -33,7 +33,7 @@ layout: instructor
 ><div style="text-align: justify"> Magíster en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia (UPCH), Ingeniero Electrónico de la Universidad Nacional del Callao (UNAC). En la actualidad se desempeña como docente investigador en la Universidad Privada Norbert Wiener y en la escuela de Ingeniería de UPCH. Calificado como investigador en el Registro Nacional Científico, Tecnológico y de Innovación Tecnológica (RENACYT) en la categoria María Rostworowski Nivel I. Entre sus principales interés como investigador están el llevar la tecnología al campo de la salud a través de nuevos dispositivos de diagnóstico y tratamiento, además tiene proyectos enfocados a facilitar el entorno de personas con discapacidad visual y auditiva a través de sensores electrónicos. Sus proyectos de investigación tienen como componente tecnológico el uso de Fabricación digital, Realidad aumentada e Inteligencia Artificial. Programador y desarrollador de Resp-IoT, proyecto financiado por la Royal Academy of Engineering del Reino Unido.</div>
 
 
-![Alt text](/instructors/moises_meza.jpeg){:height="130px" width="120px"}
+![Alt text](/instructors/moises_meza_2.jpg){:height="130px" width="120px"}
 
 *Moises Meza, MS, ING | moises.meza@upch.pe*
 ><div style="text-align: justify"> Magíster en Informática Biomédica en Salud Global (UPCH) e Ingeniero Electrónico de la Unviersidad Nacional del Callao (UNAC). Cuenta con estudios en Analítica de Datos y una especialización en Big Data y Machine Learning frente al COVID-19  de la Universidad de Ciencia y Tecnología (UTEC). Es fundador de la Comunidad TinyML-Perú, enfocando sus trabajos en Internet de las Cosas y Machine Learning Embebido. Actualente es co-investigador en proyectos de desarrollo de radares en INICTEL-UNI.</div>
@@ -45,7 +45,7 @@ layout: instructor
 ><div style="text-align: justify">Licenciada en tecnología médica – área de terapia ocupacional por la Universidad Nacional Mayor de San Marcos y Universidad Federal de São Carlos (Brasil), experiencia en el servicio de neurorrehabilitación, pasante en el área de bioingeniería del Instituto de Medicina Física y Rehabilitación – IMREA/São Paulo. Experiencia en el diseño y fabricación de prototipos de tecnología asistida 3D para usuarios con discapacidad y coordinadora del proyecto TO MAKER. Docente pregrado UPCH y actualmente cursando el diplomado en diseño, innovación y tecnología en la Universidad Adolfo Ibañez (Chile).</div>
 
 
-![Alt text](/instructors/jose_caceres.jpeg){:height="180px" width="140px"}
+![Alt text](/instructors/jose_caceres.jpeg){:height="180px" width="270px"}
 
 *José Alonso Cáceres, MD | jo.alonsok@gmail.com*
 ><div style="text-align: justify">Egresado de la Carrera de Ciencias Biomédicas de la Universidad Tecnológica de Sydney (Australia), cuenta además con un Diplomado en Ciencias de Datos de la Universidad Tecnológica de Monterrey (México). En la actualidad, se desempeña como analista de investigación científica y coordinador del area de investigación del Laboratorio Clinico ROE. Es uno de los fundadores y actual director de Tecnología e Información del emprendimiento social APPNEMIA. Sus principales intereses como investigador se encuentran dentro de las áreas de patología, inmunología y tecnología aplicada a ciencias de la salud.</div>
