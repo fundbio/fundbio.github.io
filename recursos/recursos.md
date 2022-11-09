@@ -1,7 +1,7 @@
 Recursos
 ========
 ## Anatomia
-[Atlas of Human Anatomy 7th edition - Frank H. Netter](https://www.netterimages.com/book-Frank-H-Netter-MD-Anatomy-Atlas-7e-9780323393225.html target="_blank")
+[Atlas of Human Anatomy 7th edition - Frank H. Netter](https://www.netterimages.com/book-Frank-H-Netter-MD-Anatomy-Atlas-7e-9780323393225.html)
 
 ## Página Web
 [Crea y aloja un sitio web en Github - Jonathan McGlone](http://jmcglone.com/guides/github-pages/)
@@ -25,23 +25,21 @@ Recursos
 
 ### Arduino
 
-[Introducción a Arduino](https://www.academia.edu/36508349/Introducci%C3%B3n_a_Arduino)
+[Introducción a Arduino](https://halley.uis.edu.co/tierra/wp-content/uploads/2014/12/arduino.pdf)
 
-[Intro to Arduino](https://cdn.sparkfun.com/assets/3/9/d/9/e/Intro_to_Arduino_-_v30_1.pdf)
-
-[Introduction to Arduino](https://www.introtoarduino.com/downloads/IntroArduinoBook.pdf)
+[Introduction to Arduino](http://www.introtoarduino.com/downloads/IntroArduinoBook.pdf)
 
 ### Python
 
-[Learn Python](https://www.codecademy.com/learn/learn-python)
+[Learn Python](https://www.codecademy.com/learn/learn-python-3)
 
-[Taller de programación en Python - Clase 01](https://sites.google.com/upch.pe/python/inicio/clase01?authuser=0)
+[Taller de programación en Python - Clase 01](https://www.youtube.com/watch?v=BTEnQrX6ucg)
 
-[Taller de programación en Python - Clase 02 (Parte 1)](https://sites.google.com/upch.pe/python/inicio/clase02?authuser=0)
+[Taller de programación en Python - Clase 02](https://www.youtube.com/watch?v=thDcvOYFvec)
 
-[Taller de programación en Python - Clase 02 (Parte 2)](https://sites.google.com/upch.pe/python/inicio/clase03?authuser=0)
+[Taller de programación en Python - Clase 03](https://www.youtube.com/watch?v=aUKsePGA-PQ)
 
-[Taller de programación en Python - Clase 03 (Parte 1)](https://sites.google.com/upch.pe/python/inicio/clase04?authuser=0)
+[Taller de programación en Python - Clase 04](https://www.youtube.com/watch?v=flI1OQEXb_w)
 
 [Python - Instalacion de Pip](https://www.youtube.com/watch?v=8q5_i0Tx-PQ)
 
@@ -51,21 +49,17 @@ Recursos
 
 ### AppInventor
 
-[AppInventor con Firebase (Parte 1)](https://www.youtube.com/watch?v=L6hbMv45gFY)
+[AppInventor con Firebase (Parte 1)](https://www.youtube.com/watch?v=4kGgLplAGJE)
 
-[AppInventor con Firebase (Parte 2)](https://www.youtube.com/watch?v=PETOqeB_ZMI)
-
-
+[AppInventor con Firebase (Parte 2)](https://www.youtube.com/watch?v=2SncmmdmIY8)
 
 ## Electrónica Básica
 
-[Introducción a la electrónica nivel básico](https://micros.grup6.com/introduccion-a-la-electronica/)
+[Introducción a la electrónica nivel básico](https://www.youtube.com/watch?v=FOY66XAefsk)
 
 [Introducción a la electrónica](https://usershop.redusers.com/media/blfa_files/lpcu142/capitulogratis.pdf)
 
 [Microcontroladores de Atmel](http://www.exa.unicen.edu.ar/catedras/tmicrocon/Material/3_Overview_Microcontroladores_ATMEL.pdf)
-
-[Organización Interna de los Microcontroladores](http://www.utm.mx/~fsantiag/Micros/2_Organizacion_AVRs.pdf)
 
 ### Simulación de Circuitos
 [Turotial Proteus desde cero](https://www.youtube.com/watch?v=zb5OJxtPjvw)
@@ -76,8 +70,6 @@ Recursos
 
 ### Diseño de Tarjetas Electrónicas
 [Tutorial de KiCAD PCB](http://babryce.com/kicad/tutorial.html)
-
-[Comenzando en KiCAD](http://docs.kicad-pcb.org/5.0.2/es/getting_started_in_kicad/getting_started_in_kicad.pdf)
 
 [Diseño esquematico con KiCAD](https://www.youtube.com/watch?v=jTMjb-1SVHo)
 
@@ -91,8 +83,6 @@ Recursos
 [Introducción a Blender - Parte II](https://youtu.be/U5QVp5lLP8c)
 
 [Introducción a Blender - Parte III](https://youtu.be/lOv5tNWKi9U)
-
-[Tutorial de Blender](http://www.peremanelv.com/Pagina_Web_de_Pere_Manel/Tutoriales_files/Tutorial%20de%20Blender%20I.pdf)
 
 [Prepara tu modelo para impresión 3D con Blender](https://www.sculpteo.com/en/tutorial/prepare-your-model-3d-printing-blender/)
 
