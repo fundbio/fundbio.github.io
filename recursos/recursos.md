@@ -1,7 +1,7 @@
 Recursos
 ========
 ## Anatomia
-[Atlas of Human Anatomy 7th edition - Frank H. Netter](https://www.netterimages.com/book-Frank-H-Netter-MD-Anatomy-Atlas-7e-9780323393225.html)
+[Atlas of Human Anatomy 7th edition - Frank H. Netter](https://www.netterimages.com/book-Frank-H-Netter-MD-Anatomy-Atlas-7e-9780323393225.html target="_blank")
 
 ## Página Web
 [Crea y aloja un sitio web en Github - Jonathan McGlone](http://jmcglone.com/guides/github-pages/)
